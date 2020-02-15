@@ -1,9 +1,4 @@
-# Striving for Simplicity in Off-Policy Deep Reinforcement Learning
-
-This project provides the open source implementation using the
-[Dopamine][dopamine] framework for running experiments mentioned in [Striving for Simplicity in Off-Policy Deep Reinforcement Learning][paper].
-In this work, we use the logged experiences of a DQN agent for training off-policy
-agents (shown below) in an offline setting (*i.e.*, [batch RL][batch_rl]) without any new
+In this work, we use the logged experiences of a DQN agent for training off-policy agents (shown below) in an offline setting (*i.e.*, [batch RL][batch_rl]) without any new
 interaction with the environment during training.
 
 <img src="https://i.imgur.com/Ntgcecq.png" width="95%"
